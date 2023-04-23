@@ -1,0 +1,19 @@
+
+:root {
+    --button-color: white;
+    --button-background-color: 
+    #F082B3;
+    --border-radius:10%;
+    --border-color:#F082B3;
+   
+  }
+header{
+ text-align: center;
+ margin: 10px;   
+}
+
+#nails-photo{
+    text-align: center;
+
+}
+
